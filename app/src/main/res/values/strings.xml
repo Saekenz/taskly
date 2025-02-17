@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Taskly</string>
+    <string name="title_activity_import">ImportActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- string resources for sketch activity -->
+    <string name="main_title">Type: %s</string>
+    <string name="menu_inputMode">Input mode</string>
+    <string name="menu_undo">Undo</string>
+    <string name="menu_redo">Redo</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_convert">Convert</string>
+    <string name="menu_save">Save &amp; Exit</string>
+    <string name="inputMode_forcePen">Pen</string>
+    <string-array name="colors">
+        <item></item>
+        <item>blue</item>
+        <item>green</item>
+        <item>red</item>
+    </string-array>
+    <string name="list_view_information_text">To switch position of the tasks, hold the task to drag it to the position wanted.</string>
+    <!-- string resources for sketch activity -->
+</resources>

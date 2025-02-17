@@ -1,0 +1,6 @@
+package at.ac.univie.se2.team0204.viewmodel.taskiterator;
+
+public interface AppointmentIteratable {
+
+    public AppointmentIterator getAppointmentIterator();
+}
